@@ -16,3 +16,10 @@ Docker was setup with requirements.txt, docker-compose.yaml and Dockerfile to se
 **Part 3: Metabase**
 
 Metabase was used for data visualizations. It connects to the internal postgresql and also has its own version of sql. After query, the data can be visualized into tables and graphs for insights of the listening data.
+
+<img width="929" alt="Image" src="https://github.com/user-attachments/assets/0deebd4a-636b-4438-9910-84f1d67f20da" />
+
+Work to be done:
+
+add in song info (duration, url etc.)
+implement CI/CD
